@@ -4,7 +4,6 @@ The definition of Deep learning is that it is the branch of machine learning tha
 
 ![image](https://github.com/user-attachments/assets/7c202ad8-c01d-4742-8465-a09c596f4366)
 
-# Example of Deep Learning 
 
 ![image](https://github.com/user-attachments/assets/fe54dec9-c3b6-4aef-b0a0-767f9daaa687)
 
